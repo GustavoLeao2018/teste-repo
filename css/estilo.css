@@ -1,0 +1,15 @@
+h3 {
+	text-align: center;
+}
+
+img {
+	width: 200px;
+}
+
+.tag {
+	padding: 10px;
+	border: 1px solid white;
+	border-radius: 5px;
+	background: darkred;
+	color: white;
+}
